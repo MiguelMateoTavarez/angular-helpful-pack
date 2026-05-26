@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="ico.png" alt="Angular Essential Pack Logo" width="128" height="128" />
+  <img src="ico.png" alt="Angular Helpful Pack Logo" width="128" height="128" />
 </p>
 
-<h1 align="center">Angular Essential Pack</h1>
+<h1 align="center">Angular Helpful Pack</h1>
 
 <p align="center">
-  <strong>A curated collection of trusted extensions for Angular development, built on top of Modern Web Development Essentials.</strong>
+  <strong>A curated collection of helpful extensions for Angular development, built on top of Modern Web Development Essentials.</strong>
 </p>
 
 ---
