@@ -1,0 +1,28 @@
+{
+  "name": "angular-essential-pack",
+  "displayName": "Angular Essential Pack",
+  "version": "1.0.0",
+  "publisher": "trusted-packs",
+  "description": "A curated collection of trusted extensions for Angular development.",
+  "icon": "ico.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "trusted-packs.modern-web-essential-pack",
+    "Angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "csstools.postcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelMateoTavarez/modern-web-essential-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiguelMateoTavarez/modern-web-essential-pack/issues"
+  }
+}
